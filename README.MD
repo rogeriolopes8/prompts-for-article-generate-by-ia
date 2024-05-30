@@ -4,15 +4,6 @@
 
 
 
--------
-
-<p align="center">
-  <img 
-    src=".github/assets/preview.png"
-    width="400"  
-  />
-</p>
-
 # Projeto artigo técnico gerado por I.A.s
 
 
